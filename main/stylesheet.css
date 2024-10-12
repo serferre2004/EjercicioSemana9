@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to bottom right, #59FFEC, #A9FF1E);
+}
+
+#title {
+    margin-top:60px ;
+    margin-bottom:30px ;
+    color: white;
+}
+
+#im {
+    margin-right: 18px;
+}
+
+#content {
+    background-color: #E5F5FF;
+    border-radius: 20px;
+}
+
+.elements {
+    color: #4B4141;
+    padding-top: 20px;
+}
+
+.titles {
+    text-align: center;
+}
+
+#Chelsea {
+    background: -webkit-linear-gradient(#ecdd06, #ecdd04, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
